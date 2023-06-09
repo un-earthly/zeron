@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\next-level\\zeron\\logs\\winston\\successes\\.d8fb31d5fd40e41b6654c2ab11e9990717d2681e-audit.json",
+    "files": [
+        {
+            "date": 1686318727878,
+            "name": "F:\\next-level\\zeron\\logs\\winston\\successes\\phu-2023-09-06-19-error.log",
+            "hash": "e580c413bec3e4bac4cd39269fa99b6b82ed61d690f6fb7605a1f8f4ad624b6c"
+        }
+    ],
+    "hashType": "sha256"
+}
