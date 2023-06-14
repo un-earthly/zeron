@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\next-level\\zeron\\logs\\winston\\errors\\.869b0efbd7479baee71d190c08f7b9f33209c303-audit.json",
+    "files": [
+        {
+            "date": 1686456608283,
+            "name": "F:\\next-level\\zeron\\logs\\winston\\errors\\phu-2023-11-06-10-error.log",
+            "hash": "1089bc56f819704f7d0be11978b7c59f781b94bae9d84a6d62a225902ab17a6a"
+        },
+        {
+            "date": 1686459918937,
+            "name": "F:\\next-level\\zeron\\logs\\winston\\errors\\phu-2023-11-06-11-error.log",
+            "hash": "864c5b17ffc30c64f8c00e121f339efa53f4a7b323bd5f79cb931313f79209cd"
+        },
+        {
+            "date": 1686465219720,
+            "name": "F:\\next-level\\zeron\\logs\\winston\\errors\\phu-2023-11-06-12-error.log",
+            "hash": "e29237abd9e8ad79d32f4701e01b4bc6c50227025fea2f041b25fe73101e7cfe"
+        }
+    ],
+    "hashType": "sha256"
+}
