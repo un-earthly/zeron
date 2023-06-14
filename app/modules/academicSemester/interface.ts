@@ -29,3 +29,6 @@ export interface IAcademicSemester {
     year: number;
 }
 export interface IAcademicSemesterModel extends Model<Document>, IAcademicSemester { }
+export type IAcademicSemesterFilters = {
+    searchTerm?: string;
+};
